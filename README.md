@@ -1,6 +1,6 @@
 # ❤️ Crushify - Find Your Perfect Match
 
-![Logo](https://via.placeholder.com/150)
+![Logo](https://i.pinimg.com/1200x/4b/a3/25/4ba325ebe5429b4a741aeba21f20055f.jpg)
 
 ## 🚀 About the Project
 Crushify is a modern and intuitive dating app designed to connect people based on compatibility, interests, and real-time interactions. Our goal is to make online dating simple, fun, and effective.
