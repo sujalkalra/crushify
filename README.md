@@ -14,8 +14,7 @@ Crushify is a modern and intuitive dating app designed to connect people based o
 - 🎭 **Anonymous Mode** – Browse profiles without revealing your identity.
 
 ## 📸 Screenshots
-> Add some cool screenshots of your app here!
-
+> project still in process
 ## 🚀 Getting Started
 ### Prerequisites
 Make sure you have the required dependencies installed.
