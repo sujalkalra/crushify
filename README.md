@@ -34,7 +34,7 @@ We welcome contributions! Feel free to fork the repo and submit pull requests.
 MIT License
 
 ## 📬 Contact
-For queries or collaboration, reach out at [your-email@example.com] or visit our [GitHub Issues](https://github.com/yourusername/dating-app/issues).
+For queries or collaboration, reach out at [kalrasujal322@gmail.com] or visit our [GitHub Issues](https://github.com/sujalkalra/crushify/issues).
 
 ---
 🔥 **Love is just a tap away!**
