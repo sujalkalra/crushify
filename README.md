@@ -22,8 +22,8 @@ Make sure you have the required dependencies installed.
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/dating-app.git
-cd dating-app
+git clone https://github.com/sujalkalra/crushify.git
+cd crushify
 # Install dependencies based on your tech stack
 ```
 
